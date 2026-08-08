@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /games/
+Allow: /c/
+
+Sitemap: https://nexus-gaming.vercel.app/sitemap.xml
+
+Host: nexus-gaming.vercel.app

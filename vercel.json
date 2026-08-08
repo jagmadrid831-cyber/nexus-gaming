@@ -1,0 +1,12 @@
+{
+  "framework": "nextjs",
+  "regions": ["iad1", "cdg1", "hnd1"],
+  "headers": [
+    {
+      "source": "/games/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=86400" }
+      ]
+    }
+  ]
+}

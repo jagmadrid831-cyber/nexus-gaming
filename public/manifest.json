@@ -1,0 +1,20 @@
+{
+  "name": "Nexus Gaming — Free Online Games",
+  "short_name": "Nexus Games",
+  "description": "Play free 8-bit, 3D, casino lite, kids and idle games. Instant play, no install.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#10b981",
+  "orientation": "any",
+  "lang": "en",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "/next.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
